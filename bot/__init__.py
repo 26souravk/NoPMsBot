@@ -63,9 +63,9 @@ START_OTHER_USERS_TEXT = get_config(
     "START_OTHER_USERS_TEXT",
     (
         "Hey, Your Massage Will Go Directly To @Moviesbazz's Admin.\n\n"
-        "⭕️ You Can Ask Admin If You Have Any Query.
-         ⭕️ You Can Complain About Corrupted Files.  
-         ⭕️ You Can Request Movie/Series.\n\n"
+        "⭕️ You Can Ask Admin If You Have Any Query.\n"
+        "⭕️ You Can Complain About Corrupted Files.\n"  
+        "⭕️ You Can Request Movie/Series.\n\n"
         "💥💥 RULES💥💥\n\n"
         "⚡️⚡️ASK FOR ONE MOVIE OR SERIES (One season) AT A TIME\n"
         "⚡️⚡️ DON'T ASK FOR ANY ADULT OR PORNOGRAPHIC CONTENT.\n\n"
