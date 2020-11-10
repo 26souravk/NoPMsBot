@@ -62,16 +62,18 @@ START_COMMAND = get_config("START_COMMAND", "start")
 START_OTHER_USERS_TEXT = get_config(
     "START_OTHER_USERS_TEXT",
     (
-        "Hi. ☺️\n"
-        "Thank you for using me 😬\n\n"
-        "This is an Open Source Project available on "
-        "https://github.com/SpEcHIDe/NoPMsBot\n\n\n"
-        "If you are the owner of this bot, "
-        "and are seeing this message 🤦‍♂️, "
-        "means that you have not set up "
-        "the ENVironment variables properly "
-        "for the bot to function.\n\n\n"
-        "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+        "Hey, Your Massage Will Go Directly To @Moviesbazz's Admin.\n\n"
+        "⭕️ You Can Ask Admin If You Have Any Query.
+         ⭕️ You Can Complain About Corrupted Files.  
+         ⭕️ You Can Request Movie/Series.\n\n"
+        "💥💥 RULES💥💥\n\n"
+        "⚡️⚡️ASK FOR ONE MOVIE OR SERIES (One season) AT A TIME\n"
+        "⚡️⚡️ DON'T ASK FOR ANY ADULT OR PORNOGRAPHIC CONTENT.\n\n"
+        "BEFORE ASKING FOR LINKS:-\n\n"
+        "⚡️⚡️ SEARCH IN OUR CHANNEL @Moviesbazz  (#WITH_CORRECT_SPELLING).\n"
+        "⚡️⚡️ DON'T ASK SIMULTANEOUSLY OR IN BULK\n"
+        "⚡️⚡️ MOVIE REQUESTING TIME 9AM TO 11PM\n\n"
+        "Thanks For Being With @Moviesbazz❗️❣️"
     )
 )
 # check online status of your bot
@@ -79,9 +81,7 @@ ONLINE_CHECK_START_TEXT = get_config(
     "ONLINE_CHECK_START_TEXT",
     (
         "i am online <b>master</b>\n\n"
-        "This is an Open Source Project available on "
-        "https://github.com/SpEcHiDe/NoPMsBot\n\n\n"
-        "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+        "ℹ️ Subscribe @Moviesbazz if you 😍 using this bot❗️❣️"
     )
 )
 # IDEKWBYRW
